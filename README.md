@@ -1,2 +1,2 @@
 # exercise-1
-my first exercise
+my apt ss assignment
